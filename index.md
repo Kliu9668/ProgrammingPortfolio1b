@@ -18,3 +18,15 @@ OOP application built in the Processing environment. Fall of 2020
 Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/Calculator) Executable for Windows avaliable [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/src/Calculator/application.windows64.zip)
 
 
+## Replit Projects
+
+### Sequential Files
+. Spring of 2021
+
+![Sequential Files](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/images/Squential%20File%20Access%20Screencapture.png?raw=true)
+
+Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/Sequential-File-Access) Executable for Windows avaliable [here]()
+
+
+
+
