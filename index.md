@@ -5,7 +5,7 @@ Certifications: Computer Programming Semester 1 CTE test
 
 ## Group Projects
 
-
+Comming soon ^_^
 
 ## Processing Projects
 
@@ -38,18 +38,18 @@ Input/Output files built in Repl environment in Java. Spring of 2021
 
 ![Sequential Files](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/images/Squential%20File%20Access%20Screencapture.png?raw=true)
 
-Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/Sequential-File-Access) Executable for Windows avaliable [here]()
+Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/Sequential-File-Access)
 
 ### Madlibs
 Application of Arrays and Scanners built in Repl environment in Java. Spring of 2021
 
 ![Madlibs](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/images/Madlibs%20ScreenCapture.png?raw=true)
 
-Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/Madlibs) Executable for Windows avaliable [here]()
+Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/Madlibs)
 
 ### Number Guessing Game
 Random int game built in Repl environment in Java. Winter of 2021
 
 ![Number Guessing Game](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/images/Number%20Guessing%20Game%20Screencapture.png?raw=true)
 
-Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/NumberGuessingGame) Executable for Windows avaliable [here]()
+Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/NumberGuessingGame) 
