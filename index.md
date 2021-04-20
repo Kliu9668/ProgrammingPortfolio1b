@@ -40,4 +40,9 @@ Application of Arrays and Scanners built in Repl environment in Java. Spring of 
 
 Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/Madlibs) Executable for Windows avaliable [here]()
 
+### Number Guessing Game
+Random int game built in Repl environment in Java. Spring of 2021
 
+![Number Guessing Game](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/images/Number%20Guessing%20Game%20Screencapture.png?raw=true)
+
+Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/NumberGuessingGame) Executable for Windows avaliable [here]()
