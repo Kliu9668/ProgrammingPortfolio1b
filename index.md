@@ -11,7 +11,7 @@ OOP Game built in the Processing environment. Winter of 2020
 Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/SpaceGameFinalPhase)
 
 ### Calculator
-OOP Game built in the Processing environment. Winter of 2020
+OOP application built in the Processing environment. Fall of 2020
 
 ![Calculator](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/images/Calculator%20Screencapture.png?raw=true)
 
