@@ -12,12 +12,16 @@ Comming soon ^_^
 ### SpaceGame
 OOP Game built in the Processing environment. Winter of 2020
 
+![Space Game UML](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/images/UML%20for%20basic%20application.png?raw=true)
+
 ![Spacegame](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/images/SpaceGame%20Screencapture.png?raw=true)
 
 Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/SpaceGameFinalPhase) Executable for Windows avaliable [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/src/SpaceGameFinalPhase/application.windows64.zip)
 
 ### Calculator
 OOP application built in the Processing environment. Fall of 2020
+
+![Calculator Plan](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/images/Calculator%20Plan.png?raw=true)
 
 ![Calculator](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/images/Calculator%20Screencapture.png?raw=true)
 
