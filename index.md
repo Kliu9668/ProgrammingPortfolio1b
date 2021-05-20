@@ -5,7 +5,14 @@ Certifications: Comming Soon ^_^
 
 ## Group Projects
 
-Comming soon ^_^
+### MagicMania
+OOP Interactive Game built in the Processing enviroment. Spring of 2021
+
+![MagicMania UML](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/images/Updated%20MagicMania%20UML.png?raw=true)
+
+![MagicMania](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/images/MagicMania%20ScreenCapture.PNG?raw=true)
+
+Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/MagicMania) Executable for Windows avaliable [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/application.windows64)
 
 ## Processing Projects
 
