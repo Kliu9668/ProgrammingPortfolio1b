@@ -12,7 +12,7 @@ OOP Interactive Game built in the Processing enviroment. Spring of 2021
 
 ![MagicMania](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/images/MagicMania%20ScreenCapture.PNG?raw=true)
 
-Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/MagicMania) Executable for Windows avaliable [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/application.windows64)
+Source code avalible [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/tree/gh-pages/src/MagicMania) Executable for Windows avaliable [here](https://github.com/Kliu9668/ProgrammingPortfolio1b/blob/gh-pages/src/MagicMania/application.windows64.zip)
 
 ## Processing Projects
 
