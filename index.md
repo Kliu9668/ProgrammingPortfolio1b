@@ -1,7 +1,7 @@
 # Kevin Liu's Programming Porfolio 2021
 Kevin Liu [Email](mailto:keviliu9668@granitesd.org)
 
-Certifications: Comming Soon ^_^
+Certifications: CTE Exam Semester 1 basics, CTE Exam Semester 2 Java
 
 ## Group Projects
 
